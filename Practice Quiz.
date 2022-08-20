@@ -1,0 +1,32 @@
+1.
+Question 1
+Fill in the blank: In SQL, _____ can be used to combine strings from multiple tables in order to create a new string.
+
+COMBINE
+CONCATENATE
+CONCAT
+CONNECT
+
+***************************************************************************************************************************************************
+2. You are working with a database table that contains data about playlists for different types of digital media. You are only interested in the first 4 playlists. 
+
+You write the SQL query below. Add a LIMIT clause that will return only the first 4 playlists. 
+
+SELECT
+*
+FROM
+playlist
+
+What playlist appears in row 2 of your query result?
+
+Music
+Movies
+TV Shows
+Audiobooks
+***************************************************************************************************************************************************
+What function can be used to return the number of characters in cell B8 so you can confirm that it contains exactly 20 characters?
+
+=LEN(20)
+=LEN(B8, 20)
+=LEN(20, B8)
+=LEN(B8)
